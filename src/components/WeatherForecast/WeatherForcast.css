@@ -1,0 +1,17 @@
+.weather section{
+    display: flex;
+    flex-direction: row;
+}
+
+.weather section .card{
+    border: 3px solid #545454;
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    margin: 0 3px;
+    Border-radius: 20px;
+}
+
+.weather span {
+    font-weight: bold;
+}
